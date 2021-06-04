@@ -1,7 +1,7 @@
-# AI-Studio-项目标题
+# 常规赛：遥感影像地块分割 5月第9名方案
 
 ## 项目描述
-简要描述项目
+常规赛：遥感影像地块分割 5月第9名方案，参考baseline：https://aistudio.baidu.com/aistudio/projectdetail/1785557
 
 ## 项目结构
 ```
